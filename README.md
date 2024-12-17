@@ -13,7 +13,7 @@ To access the Battle Gun user's guide click [here](https://docs.google.com/docum
 [Video Demo](https://drive.google.com/file/d/13ux6IlTZwkzZ0vf5qmx3oXUZaS6K6dZh/view?usp=sharing)
 
 ## Teaser TikTok 🎞
-[![Video Teaser_TikTok](miniatura)](link_videoTeaserTikTok)
+[Video Teaser_TikTok](https://drive.google.com/file/d/1yARhbuENEUL12xnpPZOzW8XksuALtgTO/view?usp=drive_link)
 
 ## Game Installers (Windows & Linux) 🎮
 - Windows: [Battle_Gun.exe](https://drive.google.com/file/d/1cXgUCcQEEpGz1SVAmvMIHZxH_jX8AEbr/view?usp=sharing)
