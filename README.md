@@ -20,4 +20,4 @@ To access the Battle Gun user's guide click [here](https://docs.google.com/docum
 - Linux: [Battle_Gun.deb](https://drive.google.com/file/d/1cXgUCcQEEpGz1SVAmvMIHZxH_jX8AEbr/view?usp=sharing)
 
 ## Project Repository 🔗
-To access the Battle Gun repository project click [here](link_gitlab).
+To access the Battle Gun repository project click [here](https://github.com/PolNie/BattleGunRepo/tree/main/FPShooter%203D).
