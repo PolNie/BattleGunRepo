@@ -10,7 +10,7 @@ To access the Game Design Document click [here](https://docs.google.com/document
 To access the Battle Gun user's guide click [here](https://docs.google.com/document/d/1S2x0769RUKKgoYsBhAJkZDPssDdg8__NdlXIfzj8py8/edit?usp=sharing).
 
 ## Video Demo 📽️
-[![Video Demo](miniatura)](link_videoDemo)
+[![Video Demo]()](https://drive.google.com/file/d/13ux6IlTZwkzZ0vf5qmx3oXUZaS6K6dZh/view?usp=sharing)
 
 ## Teaser TikTok 🎞
 [![Video Teaser_TikTok](miniatura)](link_videoTeaserTikTok)
